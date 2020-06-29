@@ -1,2 +1,2 @@
-# C_22
-Bouncing ball with phycics engine.
+# staticSquare
+A static square made using Matter.js physics engine
